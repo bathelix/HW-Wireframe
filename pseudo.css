@@ -1,0 +1,13 @@
+a {padding: 10px;
+    border: solid black;
+
+}
+
+a:hover {
+    background: colors red;
+    text-decoration: underline;
+}
+
+a:active {
+    color: green;
+}
